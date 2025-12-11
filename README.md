@@ -1,6 +1,6 @@
 # Smart Agriculture with AI Monitoring System
 
-An IoT‑based smart agriculture system that monitors key environmental parameters and controls farm actuators wirelessly using an ESP32 microcontroller and a web dashboard.[1]
+An IoT‑based smart agriculture system that monitors key environmental parameters and controls farm actuators wirelessly using an ESP32 microcontroller and a web dashboard.
 
 ## Features
 
